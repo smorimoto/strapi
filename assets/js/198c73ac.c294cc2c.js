@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4421],{820:s=>{s.exports=JSON.parse('{"label":"audit-logs","permalink":"/tags/audit-logs","allTagsPath":"/tags","count":1,"items":[{"id":"docs/core/admin/ee/audit-logs","title":"Audit Logs","description":"Guide for Audit Logs","permalink":"/docs/core/admin/ee/audit-logs"}]}')}}]);
