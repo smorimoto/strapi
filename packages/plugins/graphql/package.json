@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "koa": "2.13.4",
+    "koa": "2.14.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "5.3.4",
